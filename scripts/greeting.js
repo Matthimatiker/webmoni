@@ -2,6 +2,6 @@
 
 module.exports = function(robot) {
   robot.respond(/Hi.*/, {}, (response) => {
-    response.send("Hi, Matthias!");
+    response.send("Hi, Webmontag!");
   });
 };
