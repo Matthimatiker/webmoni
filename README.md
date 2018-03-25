@@ -35,7 +35,7 @@ Initialize the project in a new directory, e.g. `webmoni`:
     mkdir webmoni && cd webmoni
     yo hubot
     
-Update the Node.js version in `package.json`, e.g. to `8.10.x`. Otherwise the deployment to Heroku might fail if there is an NPM version mismatch during local setup and host environment.
+Update the Node.js version in `package.json`, e.g. to `8.10.x`. Otherwise the deployment to Heroku might fail if there is an NPM version mismatch between local setup and host environment.
 
 Register your bot at [https://my.slack.com/apps/A0F7YS25R-bots](https://my.slack.com/apps/A0F7YS25R-bots) to get a Slack token for your bot.
 
