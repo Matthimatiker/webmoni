@@ -4,7 +4,7 @@ Webmoni is a SlackBot based on the [Hubot](https://hubot.github.com/) framework.
 
 ## Slides/Presentation ##
 
-You can find the corresponding slides in [presenation/Slack.pdf](presenation/Slack.pdf). 
+You can find the corresponding slides in [presentation/Slack.pdf](presentation/Slack.pdf). 
 
 ## Example Scripts ##
 
